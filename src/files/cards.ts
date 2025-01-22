@@ -12,8 +12,14 @@ export const cards = [
         def: 3,
     },
     {
-        id: 2,
+        id: 3,
         name: "monster 3",
+        atk: 2,
+        def: 5,
+    },
+    {
+        id: 4,
+        name: "monster 4",
         atk: 2,
         def: 5,
     },
